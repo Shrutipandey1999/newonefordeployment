@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ 
+/* .App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} */
+ 
+/* Add custom font sizes from 6px to 24px at intervals of 2px */
+.custom-font-size-6 {
+  font-size: 6px;
+}
+ 
+.custom-font-size-8 {
+  font-size: 8px;
+}
+ 
+.custom-font-size-10 {
+  font-size: 10px;
+}
+ 
+.custom-font-size-12 {
+  font-size: 12px;
+}
+ 
+.custom-font-size-14 {
+  font-size: 14px;
+}
+ 
+.custom-font-size-16 {
+  font-size: 16px;
+}
+ 
+.custom-font-size-18 {
+  font-size: 18px;
+}
+ 
+.custom-font-size-20 {
+  font-size: 20px;
+}
+ 
+.custom-font-size-22 {
+  font-size: 22px;
+}
+ 
+.custom-font-size-24 {
+  font-size: 24px;
+}

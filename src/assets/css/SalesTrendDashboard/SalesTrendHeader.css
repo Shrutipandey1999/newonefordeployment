@@ -1,0 +1,58 @@
+.trends {
+  width: 804px;
+  height: 158px;
+  padding-top: 8px;
+  padding-right: 16px;
+  padding-bottom: 16px;
+  padding-left: 16px;
+}
+ 
+.header-container {
+  width: 772px;
+  height: 134px;
+  display: flex;
+  padding: 12px;
+  flex-direction: column;
+  background-color: #e8eef7;
+  justify-content: space-between;
+  border-radius: 20px 20px 0 0;
+  margin: 0 auto;
+}
+ 
+.header-title {
+  width: 748px;
+  text-align: center;
+}
+ 
+.title-text {
+  font-size: 18px;
+  color: #3b459e;
+  font-weight: bold !important;
+  color: var(--Purple-600, #3B459E);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 22px; /* 122.222% */
+}
+ 
+.header-info {
+  display: flex;
+  justify-content: space-between;
+}
+ 
+.info-text {
+  color: #1a237e;
+  font-size: 12px !important;
+}
+ 
+.info-strong {
+  color: #1a237e;
+}
+ 
+.info-text-right {
+  color: #1a237e;
+  font-size: 12px;
+  text-align: right;
+}
+ 
